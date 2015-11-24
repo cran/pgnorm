@@ -12,7 +12,7 @@
 }
 \value{An \eqn{n}-dimensional, real vector.}
 
-\references{S. Kalke and W.-D. Richter."Simulation of the p-generalized Gaussian distribution." Journal of Statistical Computation and Simulation. Available online: 08 Nov 2011.}
+\references{S. Kalke and W.-D. Richter (2013)."Simulation of the p-generalized Gaussian distribution." Journal of Statistical Computation and Simulation. Volume 83. Issue 4.}
 \author{Steve Kalke}
 
 

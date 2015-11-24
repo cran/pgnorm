@@ -10,7 +10,7 @@
 \item{sigma}{A positive number expressing the standard deviation of the distribution. The default is \eqn{\sigma_p}.}
 }
 \value{A real number.}
-\references{S. Kalke and W.-D. Richter."Simulation of the p-generalized Gaussian distribution." Journal of Statistical Computation and Simulation. Available online: 08 Nov 2011.}
+\references{S. Kalke and W.-D. Richter (2013)."Simulation of the p-generalized Gaussian distribution." Journal of Statistical Computation and Simulation. Volume 83. Issue 4.}
 \author{Steve Kalke}
 
 \examples{y<-dpgnorm(0,3,1,2)}

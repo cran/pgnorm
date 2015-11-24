@@ -1,1 +1,2 @@
-export("dpgnorm","ppgnorm","rpgangular","rpgnorm","rpgunif")
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "pgamma", "runif")
