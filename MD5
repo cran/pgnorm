@@ -1,7 +1,6 @@
-f413f66cf2822bbbba1c953dc61440c8 *DESCRIPTION
+4d7932412e21f730c79ab8aaf94a8725 *DESCRIPTION
 781e7c1dd762c47a06e5af1a6b1bed53 *NAMESPACE
 e32a452572c624265f93c289c316cd38 *R/dpgnorm.R
-3a5c134433def6c57ed1677dc0737ab1 *R/pgnorm-internal.R
 c19f3aedd385cabe0966586050deaf09 *R/ppgnorm.R
 79cdf1a9429dcb6ce8c6bdf6c81256ce *R/rpgangular.R
 c6dd2e9c3356573d0a8bb80093d78f82 *R/rpgnorm.R
@@ -12,9 +11,9 @@ fff1d3bf7c5100260e6237bab49a5088 *R/rpgnorm_pgenpolarrej.R
 81853197955d7de2a5368d2bfcb50caf *R/rpgnorm_ziggurat.R
 314ebaef6f136457edb99142afc8e116 *R/rpgunif.R
 009acbc0e0c6b7c3a34aec5f0af5ba4e *R/zigsetup.R
-4805c52c7ac199e91a7d563c49320eab *data/datasetpgnmp1.rda
-e38783ca2b96358fe0010fd1062a8623 *data/datasetpgnmp2.rda
-b74bd2ce508fcd2ac6634cc3219ab8a3 *data/datasetpgnzig.rda
+365cfaa07dc2c7ea20b20c4283835c97 *data/datasetpgnmp1.rda
+b2c6683416e4da192f68e37d3da1695a *data/datasetpgnmp2.rda
+40b6cf1dacd6e74ec971d2ecd387e98c *data/datasetpgnzig.rda
 c3eae3e1040b35508fbf7bf0a57bed13 *man/datasetpgnmp1.Rd
 6546a181cac6b32855fbd571821337ae *man/datasetpgnmp2.Rd
 073649b1018cbb8aaf6398fc2ba60277 *man/datasetpgnzig.Rd
